@@ -1,0 +1,36 @@
+.el-form-item{width: 44%;float: left;margin-left: 4%;position: relative;font-weight: bold !important}
+.dialog-two .el-dialog .el-form-item{width: 28%;float: left;margin-left: 4%;position: relative;margin-bottom: 16px; font-weight: bold!important}
+.el-input, .el-input__inner{width:100%;}
+.el-dialog__body{padding: 30px 0;}
+.dialog-footer{clear: both;text-align: center;padding-top: 20px;}
+.dialog-footer>.el-button--default{background-color: #bae5f6;color: #49b0d8;}
+.fa-star{ position: absolute;top: -24px;left: -14px;color:#e5525d;font-size:10px;}
+.el-pagination{float:right;margin-bottom: 16px;margin-top: 20px;}
+.el-dialog__header{padding: 16px 3.5% 0;font-weight: bold;background-color: #f5f8fd;padding-bottom: 15px;border-bottom: 1px solid #dfe3e9;}
+.el-input-group__append{ background: #50bfff;color: white;}
+.el-input-group{width: 30%;margin-top: -2px;margin-left: 10%;}
+.el-input__inner:hover{border-color: #50bfff;}
+.el-input.is-disabled .el-input__inner{background-color: #f5f7fa;border-color: #f5f7fa;color: #4ebce6;cursor: not-allowed;}
+.el-dialog__headerbtn{margin-top: -18px;font-size: 12px}
+.el-dialog__footer{padding: 0;}
+.dialog-footer{padding: 8px 0;background-color: #f5f8fd;border-top: 1px solid #dfe3e9;}
+.el-textarea.is-disabled .el-textarea__inner{background-color: #f5f7fa;border-color: #f5f7fa;color: #4ebce6;cursor: not-allowed;}
+.inputform{ float: none;width: 92%;clear: both}
+.el-select{width: 100%;}
+.el-select:hover .el-input__inner{border-color:#50bfff }
+.el-textarea:hover .el-input__inner{border-color:#50bfff }
+.bugname{font-weight: bold;font-size: 14px}
+.el-date-editor.el-input{width: 100%;}
+.dialog-two .el-dialog .el-form-item .formselect{width:50%;display: inline-block;}
+.tableform{width: 100%;padding: 0 3.9% ;}
+.dialogbug .el-form-item{margin-bottom: 16px;}
+.demo-input-suffix{position: relative;margin-bottom: 12px;}
+.demo-input-suffix .btnsearch{position: absolute; margin-left: 8px;;z-index: 99;}
+.demo-input-suffix .btnadd{position:absolute;right:0;}
+.filter-container .senior{background-color: #f2f5f9;position: relative;border-top: 1px solid #d9e0e8;}
+.filter-container .cenior-search{padding: 34px 20px;margin-bottom: 20px;}
+.filter-container .cenior-search .name{margin-left: 20px;}
+.filter-container .senior .fa{position: absolute;left: 48%;top: -13px;color: #cbdbec;font-size: 22px;cursor: pointer;}
+.el-select .el-input.is-disabled .el-input__inner{background-color: #f5f7fa;}
+.el-select .el-input.is-disabled .el-input__inner:hover{border-color: #f5f7fa}
+.filter-container .backicon{width: 20px;height: 20px;background-color: white;border-radius: 50%;position: absolute;top: -18px;left: 48%;}
